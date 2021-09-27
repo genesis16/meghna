@@ -1,0 +1,12 @@
+############################### Banner ################################
+banner:
+  enable : true
+  bg_image_webp : "images/backgrounds/office.webp"
+  bg_image : "images/backgrounds/office.jpg"
+  icon : "" # themify icon pack : https://themify.me/themify-icons
+  title : "Fast websites that convert"
+  content : "Alpha Omega Digital specialises in fast loading websites that generate leads and revenue for your business."
+  button:
+    enable : true
+    label : "Explore"
+    link : "#services"
